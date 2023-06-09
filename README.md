@@ -1,1 +1,1 @@
-# prnt.sclinkgen
+generates prnt.sc link requires python 
